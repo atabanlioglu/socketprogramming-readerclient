@@ -1,0 +1,26 @@
+C:\Users\İdris TÜRKER\Desktop\ReaderClient\ReaderClient_Computer\ReaderClient_Computer\bin\Debug\ReaderClient_Computer.exe
+C:\Users\İdris TÜRKER\Desktop\ReaderClient\ReaderClient_Computer\ReaderClient_Computer\bin\Debug\ReaderClient_Computer.pdb
+C:\Users\İdris TÜRKER\Desktop\ReaderClient\ReaderClient_Computer\ReaderClient_Computer\obj\x86\Debug\ReaderClient_Computer.Properties.Resources.resources
+C:\Users\İdris TÜRKER\Desktop\ReaderClient\ReaderClient_Computer\ReaderClient_Computer\obj\x86\Debug\ReaderClient_Computer.csproj.GenerateResource.Cache
+C:\Users\İdris TÜRKER\Desktop\ReaderClient\ReaderClient_Computer\ReaderClient_Computer\obj\x86\Debug\ReaderClient_Computer.exe
+C:\Users\İdris TÜRKER\Desktop\ReaderClient\ReaderClient_Computer\ReaderClient_Computer\obj\x86\Debug\ReaderClient_Computer.pdb
+C:\Users\İdris TÜRKER\Desktop\ReaderClient\ReaderClient_Computer\ReaderClient_Computer\obj\x86\Debug\ReaderClient_Computer.ReaderClient.resources
+C:\Users\İdris TÜRKER\Desktop\ReaderClient\ReaderClient_Computer\ReaderClient_Computer\obj\x86\Debug\ReaderClient_Computer.csprojResolveAssemblyReference.cache
+C:\Users\Ahmet\Desktop\END\ReaderClient\ReaderClient_Computer\ReaderClient_Computer\bin\Debug\ReaderClient_Computer.exe
+C:\Users\Ahmet\Desktop\END\ReaderClient\ReaderClient_Computer\ReaderClient_Computer\bin\Debug\ReaderClient_Computer.pdb
+C:\Users\Ahmet\Desktop\END\ReaderClient\ReaderClient_Computer\ReaderClient_Computer\obj\x86\Debug\ReaderClient_Computer.Properties.Resources.resources
+C:\Users\Ahmet\Desktop\END\ReaderClient\ReaderClient_Computer\ReaderClient_Computer\obj\x86\Debug\ReaderClient_Computer.ReaderClient.resources
+C:\Users\Ahmet\Desktop\END\ReaderClient\ReaderClient_Computer\ReaderClient_Computer\obj\x86\Debug\ReaderClient_Computer.csproj.GenerateResource.Cache
+C:\Users\Ahmet\Desktop\END\ReaderClient\ReaderClient_Computer\ReaderClient_Computer\obj\x86\Debug\ReaderClient_Computer.exe
+C:\Users\Ahmet\Desktop\END\ReaderClient\ReaderClient_Computer\ReaderClient_Computer\obj\x86\Debug\ReaderClient_Computer.pdb
+C:\Users\Ahmet\Desktop\END\ReaderClient\ReaderClient_Computer\ReaderClient_Computer\obj\x86\Debug\ReaderClient_Computer.csprojResolveAssemblyReference.cache
+C:\Users\Ahmet\Desktop\END_Working\ReaderClient\ReaderClient_Computer\ReaderClient_Computer\obj\x86\Debug\ReaderClient_Computer.exe
+C:\Users\Ahmet\Desktop\END_Working\ReaderClient\ReaderClient_Computer\ReaderClient_Computer\obj\x86\Debug\ReaderClient_Computer.pdb
+C:\Users\Ahmet\Desktop\END_Working\ReaderClient\ReaderClient_Computer\ReaderClient_Computer\bin\Debug\ReaderClient_Computer.exe
+C:\Users\Ahmet\Desktop\END_Working\ReaderClient\ReaderClient_Computer\ReaderClient_Computer\bin\Debug\ReaderClient_Computer.pdb
+C:\Users\Ahmet\Desktop\END_Working\ReaderClient\ReaderClient_Computer\ReaderClient_Computer\obj\x86\Debug\ReaderClient_Computer.csprojResolveAssemblyReference.cache
+C:\Users\Ahmet\Desktop\END_Working\ReaderClient\ReaderClient_Computer\ReaderClient_Computer\obj\x86\Debug\ReaderClient_Computer.Properties.Resources.resources
+C:\Users\Ahmet\Desktop\END_Working\ReaderClient\ReaderClient_Computer\ReaderClient_Computer\obj\x86\Debug\ReaderClient_Computer.ReaderClient.resources
+C:\Users\Ahmet\Desktop\END_Working\ReaderClient\ReaderClient_Computer\ReaderClient_Computer\obj\x86\Debug\ReaderClient_Computer.csproj.GenerateResource.Cache
+D:\Dersler\4. Sınıf 1. Dönem\Paralel Programlama\END_Working\ReaderClient\ReaderClient_Computer\ReaderClient_Computer\obj\x86\Debug\ReaderClient_Computer.exe
+D:\Dersler\4. Sınıf 1. Dönem\Paralel Programlama\END_Working\ReaderClient\ReaderClient_Computer\ReaderClient_Computer\obj\x86\Debug\ReaderClient_Computer.pdb
